@@ -7,7 +7,6 @@ Software Developer
 I specialise in Artificial Intelligence integration development. I have a total of 6+ years experience. 3 working in IT infrastructure services and a further 3 studying Computer Science In Artificial Intelligence at The University Of Kent for my Bachelor's Degree.
 
 * 🌍  I'm based near London
-* 🖥️  See my portfolio [here](http://github.com/myportfolio)
 * ✉️  You can contact me at [samgatsky55@gmail.com](mailto:samgatsky55@gmail.com)
 
 <p align="left">
